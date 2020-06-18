@@ -41,3 +41,4 @@ Cheat sheets for **Hack(ing) The Box(es)**
     * [NonSQLi](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Web#NonSQLi)   
     * [XSS](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/XSS)
     * [Complain Management System](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Web#Complain-Management-System)
+    * [OpenNetAdmin RCE](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Web#OpenNetAdmin-RCE)
