@@ -5,8 +5,6 @@
 # HackTheBox Cheat Sheets
 Cheat sheets for **Hack(ing) The Box(es)**
 
-Repository maintained with my collegues [pspgt](https://github.com/pspgt) and [Hvts3rk](https://github.com/Hvts3rk)
-
 
 ## Contents
 
