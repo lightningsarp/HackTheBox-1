@@ -11,6 +11,8 @@ Repository maintained with my collegues [pspgt](https://github.com/pspgt) and [H
 ## Contents
 
 - [Linux](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Linux)
+    * [Privilege Escalation](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Linux#Privilege-Escalation)
+    
 - [Windows](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Windows)
     * [Services](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Windows#Services)
         * [Kerberos](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Windows#Kerberos)
