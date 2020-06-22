@@ -2,7 +2,7 @@
   <img src="https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/blob/master/src/htb.png" alt="HTB" width="300" />
 </p>
 
-# HackTheBox Cheat Sheets
+# HackTheBox
 Cheat sheets for **Hack(ing) The Box(es)**
 
 
