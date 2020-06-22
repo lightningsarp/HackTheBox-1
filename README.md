@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lorenzoinvidia/HTB-CheatSheets/blob/master/src/htb.png" alt="HTB" width="300" />
+  <img src="https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/blob/master/src/htb.png" alt="HTB" width="300" />
 </p>
 
 # HackTheBox Cheat Sheets
